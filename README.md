@@ -65,3 +65,9 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
   <img src="https://img.icons8.com/fluency/512/canva-app.png" width="40"/>
  
 </p>
+
+##  GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saparya05&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  
+</p>
