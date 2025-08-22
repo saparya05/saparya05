@@ -1,4 +1,4 @@
-## Hi, Welcome to My GitHub!   
+## 👋 Hi, Welcome to My GitHub!   
 
 I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and software development, focused on building real-world solutions.
 
