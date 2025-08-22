@@ -47,9 +47,9 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
 ## 🌐 Let’s Connect!  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/saparya05" target="_blank">
+  <a href="https://www.linkedin.com/in/saparya05" target="blank">
     <img src="https://img.icons8.com/color/512/linkedin.png" width="50"/>  </a>
-  <a href="https://saparya05.github.io/MemoryBook/" target="_blank">
+  <a href="https://saparya05.github.io/MemoryBook/" target="blank">
     <img src="https://img.icons8.com/fluency/512/domain.png" width="50"/>  </a>
 </p>
 
