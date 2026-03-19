@@ -39,6 +39,9 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
 <p align="left">
   <img src="https://img.icons8.com/color/512/github.png" width="30"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="30"/>
+  <span style="background:#eee;color:#111;padding:2px 8px;border-radius:6px;font-size:12px;">
+  Render
+</span>
 </p>
 
 ### Tools  
