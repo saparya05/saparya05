@@ -63,7 +63,7 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
 
 <p align="left">
   <img src="https://img.icons8.com/fluency/512/canva-app.png" width="40"/>
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
 </p>
 
 ##  GitHub Stats  
