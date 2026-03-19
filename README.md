@@ -23,7 +23,6 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
   <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30"/>
   <img src="https://skillicons.dev/icons?i=opencv" width="30"/>
-  <img src="https://skillicons.dev/icons?i=mediapipe" width="30"/>
 </p>
 
 ### Web Development  
