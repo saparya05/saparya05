@@ -50,6 +50,13 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="30"/>
 </p>
 
+## 🎨 Design Tools  
+
+<p align="left">
+  <img src="https://img.icons8.com/fluency/512/canva-app.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
+</p>
+
 ## 🌐 Let’s Connect!  
 
 <p align="left">
@@ -57,13 +64,6 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
     <img src="https://img.icons8.com/color/512/linkedin.png" width="50"/>  </a>
   <a href="https://saparya05.github.io/MemoryBook/" target="blank">
     <img src="https://img.icons8.com/fluency/512/domain.png" width="50"/>  </a>
-</p>
-
-## 🎨 Design Tools  
-
-<p align="left">
-  <img src="https://img.icons8.com/fluency/512/canva-app.png" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
 </p>
 
 ##  GitHub Stats  
