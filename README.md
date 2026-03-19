@@ -20,7 +20,7 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
   <img src="https://skillicons.dev/icons?i=scikitlearn" width="30"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="30"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="30"/>
-  <img src="https://www.nltk.org/images/nltk.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/nltk-logo.png" width="40"/>
   <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30"/>
   <img src="https://skillicons.dev/icons?i=opencv" width="30"/>
