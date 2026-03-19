@@ -9,7 +9,6 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
   <img src="https://skillicons.dev/icons?i=c" width="30"/>
   <img src="https://skillicons.dev/icons?i=cpp" width="30"/>
   <img src="https://skillicons.dev/icons?i=python" width="30"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="30"/>
 </p>
 
 ### Machine Learning / Deep Learning  
@@ -29,6 +28,7 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="30"/>
   <img src="https://skillicons.dev/icons?i=css" width="30"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="30"/>
   <img src="https://skillicons.dev/icons?i=django" width="30"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="30"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="30"/>
