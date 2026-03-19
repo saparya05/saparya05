@@ -38,8 +38,8 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
 ### Deployment & Hosting  
 <p align="left">
   <img src="https://img.icons8.com/color/512/github.png" width="30"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="30"/>
   <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="30"/>  
 </p>
 
 ### Tools  
