@@ -14,8 +14,8 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
 ### Machine Learning / Deep Learning  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30"/>
-  <img src="https://img.icons8.com/color/512/pandas.png" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/512/pandas.png" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30"/>
   <img src="https://skillicons.dev/icons?i=scikitlearn" width="30"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="30"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="30"/>
