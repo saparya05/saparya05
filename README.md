@@ -67,8 +67,8 @@ I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and
     <img src="https://img.icons8.com/fluency/512/domain.png" width="50"/>  </a>
 </p>
 
-##  GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saparya05&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<!-- ##  GitHub Stats  
+ <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saparya05&layout=compact&theme=tokyonight" alt="Top Languages"/> -->
   
 </p>
