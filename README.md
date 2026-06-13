@@ -1,6 +1,6 @@
 ## 👋 Hi, Welcome to My GitHub!   
 
-I’m Saparya Jagannath, a B.Tech CSE student passionate about ML, research, and software development, focused on building real-world solutions.
+I am Saparya Jagannath, a B.Tech Computer Science student with a strong interest in Machine Learning, Artificial Intelligence and Software Engineering. Passionate about building scalable applications and leveraging technology to solve real-world problems through innovative and impactful solutions.
 
 ## 🛠️ Tech Stack
 
